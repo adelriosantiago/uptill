@@ -1,0 +1,36 @@
+{
+  "name": "uptill",
+  "version": "1.0.0",
+  "description": "Simplified, dependency-free await for objects (and it works for arrays as well).",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelriosantiago/uptill.git"
+  },
+  "keywords": [
+    "await",
+    "async",
+    "promises",
+    "await",
+    "object",
+    "property",
+    "await",
+    "object",
+    "await",
+    "keys"
+  ],
+  "author": "Alejandro del Río Santiago <adelriosantiago@gmail.com> (http://www.adelriosantiago.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelriosantiago/uptill/issues"
+  },
+  "homepage": "https://github.com/adelriosantiago/uptill#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
