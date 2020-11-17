@@ -1,6 +1,6 @@
 {
   "name": "uptill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplified, dependency-free await for objects (and it works for arrays as well).",
   "main": "index.js",
   "scripts": {
